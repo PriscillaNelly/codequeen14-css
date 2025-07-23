@@ -1,0 +1,37 @@
+*{
+    margin: auto;
+}
+body{
+
+    background-color: beige;
+
+}
+.mother{
+    background-color: antiquewhite;
+    height: 400px;
+    width: 300px;
+    padding: 50px;
+}
+.logo{
+    padding-left: 100px;
+}
+.photo{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: white 5px solid;
+    box-shadow:3px 5px 4px rgb(58, 4, 49);
+}
+#slogan{
+    padding-bottom: 10px;
+    padding-left: 80px;
+}
+.company{
+    color: rgb(14, 14, 103);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    padding-left: 50px;
+}
+.text{
+    padding-left: 70px;
+}
