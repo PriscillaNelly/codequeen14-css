@@ -1,0 +1,50 @@
+*{
+    margin: auto;
+}
+body{
+    background-color: white;
+}
+.mother{
+    background-color: bisque;
+    height: 400px;
+    width: 420px;
+    padding: 50px;
+}
+.photo{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: white 5px solid;
+    box-shadow: 3px 5px 4px;
+
+}
+.heading{
+    color: rgb(7, 7, 116);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    padding-bottom: 20px;
+    padding-left: 120px;
+}
+#slogan{
+    padding-top: 20px;
+    padding-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    padding-bottom: 50px;
+}
+.title{
+    padding-left: 140px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(45, 45, 191);
+}
+
+*{
+    margin: auto;
+    padding-bottom:
+}
+.div{
+    background-color: bisque;
+    height: 400px;
+    width: 450px;
+    
+}
