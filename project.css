@@ -2,13 +2,17 @@
     margin: auto;
 }
 body{
-    background-color: white;
+    background-color: rgb(201, 135, 137);
+    border-radius: 100px;
+    margin: auto;
+    width: 700px;
 }
 .mother{
     background-color: bisque;
-    height: 400px;
-    width: 420px;
+    
     padding: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .photo{
     height: 150px;
@@ -16,6 +20,7 @@ body{
     border-radius: 50%;
     border: white 5px solid;
     box-shadow: 3px 5px 4px;
+    margin-left: 220px;
 
 }
 .heading{
@@ -23,7 +28,7 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: x-large;
     padding-bottom: 20px;
-    padding-left: 120px;
+    padding-left: 210px;
 }
 #slogan{
     padding-top: 20px;
@@ -33,18 +38,38 @@ body{
     padding-bottom: 50px;
 }
 .title{
-    padding-left: 140px;
+    padding-left: 230px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgb(45, 45, 191);
 }
 
 *{
     margin: auto;
-    padding-bottom:
 }
-.div{
+
+.paragraph-2{
     background-color: bisque;
-    height: 400px;
-    width: 450px;
+    height: 100px;
+    width: 520px;
+}
+.sub-heading{
+    padding-left: 200px;
+    font-size: x-large;
+    padding-bottom: 20px;
+    color: rgb(28, 28, 123);
+}
+#paragraph-2{
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 180px;
     
+}
+.heading-2{
+    font-size: x-large;
+    color: rgb(18, 18, 123);
+    padding-bottom: 20px;
+    padding-left: 50px;
+
+}
+#paragraph-3{
+    font-family: 'Times New Roman', Times, serif;
 }
